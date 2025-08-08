@@ -1,0 +1,14 @@
+artifact_uri: file:///home/eoeldroal/WorkPlace/Legal/Legal-DSPy/src/vllm_dspy_integrate/mlruns/0/b5bdf40796254ba6b276410d552b897a/artifacts
+end_time: 1754668125963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5bdf40796254ba6b276410d552b897a
+run_name: cot_single_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754668125932
+status: 3
+tags: []
+user_id: eoeldroal
